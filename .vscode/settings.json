@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/aurorawhale/Desktop/pythonTest/myvenv/bin/python3"
+    "python.pythonPath": "/Users/aurorawhale/Desktop/pythonTest/myvenv/bin/python3",
+    "git.ignoreLimitWarning": true
 }
